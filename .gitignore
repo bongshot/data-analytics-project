@@ -1,0 +1,26 @@
+# Environments
+venv/
+env/
+.env
+.venv
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# VS Code
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Data files (optional, but recommended so you don't upload huge datasets to GitHub)
+# Uncomment the below lines if you don't want to upload data files
+# *.csv
+# *.xlsx

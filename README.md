@@ -325,19 +325,3 @@ If you use this project, please cite:
   - Kaggle for hosting datasets and competition platform
 - **Libraries:** pandas, scikit-learn, XGBoost, seaborn, matplotlib, imbalanced-learn
 
----
-
-## 📝 License
-
-This project is licensed under the MIT License — see LICENSE file for details.
-
----
-
-## 📧 Contact & Questions
-
-For questions or collaboration opportunities, reach out via GitHub Issues or [contact information].
-
----
-
-**Last Updated:** May 12, 2026  
-**Status:** Complete ✅
